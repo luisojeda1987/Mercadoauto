@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "username": "Eric",
+    "pass": "$2b$12$SRg2sSs1bJqu2ZUX2ZZuDOeelr0lphl/UFKjkq1LTEFUmXOezrghu"
+  },
+  {
+    "id": 2,
+    "username": "Cristian",
+    "pass": "$2b$12$pM8HhI/ZqomTYq211..IsOHv10Xsob2EcmUhr0DSLwInGR8ZDubGW"
+  },
+  {
+    "id": 3,
+    "username": "Carlos",
+    "pass": "$2b$12$HSY2mXR1UYTPQRxqT4KYeuEII.1hI9vZ.8/FaBRIsP0jIgwzs1OYK"
+  },
+  {
+    "id": 4,
+    "username": "Belen",
+    "pass": "$2b$12$viikfIeYUFwAqXK8tU66x.GjntjT.LilSrqXrfKR0kMaOmb1FiOUe"
+  },
+  {
+    "id": 5,
+    "username": "Jonathan",
+    "pass": "$2b$12$Emh/yNwMSmq6hshIWmEUxuc40xFCnWsZlCF4DD65rvl6KmkN3SdkK"
+  },
+  {
+    "id": 6,
+    "username": "Jose",
+    "pass": "$2b$12$kUpHGwqCDpVY/wXGyzwYl.i5fsaiYwTMqvswMTQa7/FgzMJcXAqOm"
+  },
+  {
+    "id": 7,
+    "username": "Marcelo",
+    "pass": "$2b$12$ngT00rZCGByimVVN3sLWSOJs2qsF5jAZ9TFQPkNxJzchgdPXAj9/y"
+  },
+  {
+    "id": 8,
+    "username": "Segio",
+    "pass": "$2b$12$.xbivXAy2In8fcu8DB/Piey2j4.ITEYwwO0BA2pQ1cx2nynoIGnSm"
+  }
+]

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <%- include('partials/head') %> 
+<body>
+    <%- include('partials/header') %> 
+
+    <div class="container mx-auto p-3   ">
+        <div class="card mx-auto" style="width: 40%;">
+            <img src="/images/<%= auto.img %> " class="card-img-top" alt="..." />
+            <div class="card-body">
+                <h5 class="card-title">
+                    <%= auto.marca %>
+                </h5>
+                <p class="card-text">
+                    <%= auto.modelo %>
+                </p>
+                <a href="/autos/show/<%= auto.id %> " class="btn btn-primary">Ver más</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+
+
+
+    <%- include('partials/footer') %> 
+</body>
+</html>
