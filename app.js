@@ -28,6 +28,7 @@ app.use(express.json());
 app.use(methodOverride('_method'));
 app.use(session({
     secret : "mercadoAuto for ever!!"
+ 
 }));
 app.use(cookieParser());
 
